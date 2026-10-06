@@ -1,0 +1,13 @@
+numpy>=1.24
+scipy>=1.10
+pandas>=2.0
+matplotlib>=3.7
+pillow>=9.0
+# CIFAR download (experiments 1 and 3)
+torch
+torchvision
+# CIFAR split (experiment 1)
+scikit-learn>=1.2
+# Optional: audio datasets in experiment 1
+# librosa
+# soundfile
